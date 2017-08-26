@@ -1,0 +1,40 @@
+page-start {
+
+}
+
+.appStartBoxes{
+  margin-top:50%;
+}
+
+.hide{
+  display:none;
+}
+
+.startAppBtns{
+  margin-bottom:20vh;
+  display:flex;
+  align-items:center;
+}
+
+.startAppBtns li{
+display:inline;
+  float:left;
+  margin-right:15px;
+}
+
+.startAppBtn{
+  border:1px solid black;
+  border-radius:25px;
+  background-color:white;
+  width:25px;
+  height:25px;
+}
+
+.buttonActive{
+  background-color:black;
+}
+
+.startContents{
+  position:absolute;
+  margin-top:50%;
+}
